@@ -1,71 +1,94 @@
-Markdown Resumé
-===============
+Edward D. Powell
+================
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
+Software Engineer
+https://embolalia.com
+[me@embolalia.com](mailto://me@embolalia.com)
+(518)209-1936
 
-Interests
----------
+Relevant Experience
+-------------------
 
-*   Creating beautiful resumés from simple Markdown documents
+*   **Thermopylae Sciences & Technology** (Arlington, VA)
 
+    Software Engineer, August 2013 - present
 
-Work Experience
----------------
+    -   Engineered systems for simplified secure access of geospatial data from
+        various backends
+    -   Implemented systems in Python to safely expose Postgres database to
+        users
+    -   Designed remote procedure call interfaces with Apache Thrift
+    -   Collaborated with a team to facilitate interoperation between numerous
+        geospatial products from multiple organizations
 
-*   **Word Processor** (Redmond, WA)
+*   **Willie project**
 
-    Junior Resumé Maker, 2006 - 2007
+    Lead Developer, July 2012 - present
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+    -   Extended, maintained, and distributed a Python-based application
+    -   Packaged application and maintained its presense in Fedora Linux and
+        Python repositories
+    -   Wrote and maintained extensive API documentation
+    -   Coordinated developers and ensured code quality from outside developers
 
-*   **\LaTeX\ + pdflatex**
+*   **Nerdfighteria Network**
 
-    Senior Resumé Maker, 2008 - 2010
+    Treasurer & co-founder, April 2012 - present
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+    -   Configured and maintained CentOS and Fedora virtual private servers
+        providing IRC and HTTP services
+    -   Moderated user disputes in chat channels
+    -   Created, managed, maintained, and reported on a budget using GNUCash
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
+*   **The Ohio State University Open Source Club** (Columbus, OH)
 
-    Web Resumé Intern, August 2010
+    Vice President, January 2013 - May 2013
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
+    -   Helped create lecture schedule and find topics for presentations
+    -   Presented on topics including Python, Willie, and Linux Mint
+    -   Learned about a wide variety of open source software in related topics
+        including Android, Shibboleth, and wireless security
 
-*   **Markdown with Pandoc**
+*   **H.B. Davis Seed Co., Inc.** (Albany, NY)
 
-    Resumé Architect, February 2011 - present
+    Technical Consultant, June - October 2010 - 2012
 
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+    Data Entry, June - September 2007 - 2010
+
+    -   Oversaw Enterprise Resource Management (ERP) systems conversion
+        -   Researched and assisted in selection of new ERP system
+        -   Provided one-on-one training to employees
+        -   Worked with Windows, IIS, SQL Server, Crystal Reports
+        -   First point of contact on support issues, liaison between HB Davis
+            and Epicor on advanced issues
+        -   Acquired necessary knowledge of general and specific business
+            practices and system operations
+        -   Restructured and administered business networking infrastructure
+    -   Set up company email and cloud services through Google
+    -   Documented procedures for administration and use of ERP application,
+        database, and network storage systems
+    -   Evaluated and implemented open source alternatives to appropriate
+        software
+    -   Improved and scripted automation of common and time-consuming tasks
+    -   Worked with tools ranging from office applications to AIX terminal
+        applications
 
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **The Ohio State University** (Columbus, OH)
 
-    B.S. in Submodules, May 2012
+    B.S. in Computer and Information Science, May 2013
+
+    3.0 GPA
 
 
 Skills
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
-
-*   Familiar with GNU Make, bash
-
+*   Highly proficient in Python and git
+*   Skilled with Java and shell scripting
+*   Experience with languages including C++, C, and Scheme
+*   Experience with Linux administration including systemd and RPM/yum
 
