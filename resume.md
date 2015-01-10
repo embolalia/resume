@@ -4,7 +4,6 @@ Edward D. Powell
 Software Engineer
 https://embolalia.com
 [me@embolalia.com](mailto://me@embolalia.com)
-(518)209-1936
 
 Relevant Experience
 -------------------
