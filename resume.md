@@ -9,36 +9,33 @@ https://embolalia.com
 Relevant Experience
 -------------------
 
+*   **2U, Inc.**
+
+    Software Engineer, October 2014 - present
+
+    -   Developed RESTful applications in Python with Tornado
+    -   Integrated applications with Salesforce and MongoDB
+
+*   **“Willie”**
+
+    Lead Developer, July 2012 - present
+
+    -   Headed an open-source software project
+    -   Extended, maintained, and distributed a Python application
+    -   Packaged application and maintained its presense in Fedora Linux and
+        Python repositories
+    -   Coordinated developers and ensured code quality from outside developers
+
 *   **Thermopylae Sciences & Technology** (Arlington, VA)
 
-    Software Engineer, August 2013 - present
+    Software Engineer, August 2013 - September 2014
 
     -   Engineered systems for simplified secure access of geospatial data from
         various backends
     -   Implemented systems in Python to safely expose Postgres database to
         users
-    -   Designed remote procedure call interfaces with Apache Thrift
-    -   Collaborated with a team to facilitate interoperation between numerous
-        geospatial products from multiple organizations
-
-*   **Willie project**
-
-    Lead Developer, July 2012 - present
-
-    -   Extended, maintained, and distributed a Python-based application
-    -   Packaged application and maintained its presense in Fedora Linux and
-        Python repositories
-    -   Wrote and maintained extensive API documentation
-    -   Coordinated developers and ensured code quality from outside developers
-
-*   **Nerdfighteria Network**
-
-    Treasurer & co-founder, April 2012 - present
-
-    -   Configured and maintained CentOS and Fedora virtual private servers
-        providing IRC and HTTP services
-    -   Moderated user disputes in chat channels
-    -   Created, managed, maintained, and reported on a budget using GNUCash
+    -   Designed remote procedure call interfaces with Apache Thrift, and
+        integrated Thrift interfaces with Python and Java applications
 
 *   **The Ohio State University Open Source Club** (Columbus, OH)
 
@@ -58,20 +55,11 @@ Relevant Experience
     -   Oversaw Enterprise Resource Management (ERP) systems conversion
         -   Researched and assisted in selection of new ERP system
         -   Provided one-on-one training to employees
-        -   Worked with Windows, IIS, SQL Server, Crystal Reports
         -   First point of contact on support issues, liaison between HB Davis
             and Epicor on advanced issues
-        -   Acquired necessary knowledge of general and specific business
-            practices and system operations
-        -   Restructured and administered business networking infrastructure
-    -   Set up company email and cloud services through Google
-    -   Documented procedures for administration and use of ERP application,
-        database, and network storage systems
     -   Evaluated and implemented open source alternatives to appropriate
         software
     -   Improved and scripted automation of common and time-consuming tasks
-    -   Worked with tools ranging from office applications to AIX terminal
-        applications
 
 
 Education
@@ -88,7 +76,7 @@ Skills
 ------
 
 *   Highly proficient in Python and git
-*   Skilled with Java and shell scripting
-*   Experience with languages including C++, C, and Scheme
+*   Skilled with Java, JavaScript, and shell scripting.
+*   Experience with Postgres and MySQL, as well as Django and SQLAlchemy
 *   Experience with Linux administration including systemd and RPM/yum
 
