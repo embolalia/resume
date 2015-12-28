@@ -1,9 +1,9 @@
-Edward D. Powell
+Elsie D. Powell
 ================
 
 Software Engineer
 https://embolalia.com
-[me@embolalia.com](mailto://me@embolalia.com)
+[me@elsiepowell.com](mailto://me@elsiepowell.com)
 
 Relevant Experience
 -------------------
@@ -15,7 +15,7 @@ Relevant Experience
     -   Developed RESTful applications in Python with Tornado
     -   Integrated applications with Salesforce and MongoDB
 
-*   **“Willie”**
+*   **“Sopel”**
 
     Lead Developer, July 2012 - present
 
