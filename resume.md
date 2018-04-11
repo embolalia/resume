@@ -1,5 +1,5 @@
-Elsie D. Powell
-================
+Else Powell
+===========
 
 Software Engineer
 https://embolalia.com
@@ -12,12 +12,16 @@ Relevant Experience
 
     Software Engineer, October 2014 - present
 
+    -   Transitioned applications from traditional infrastructure to systems
+        based on Docker and Kubernetes
     -   Developed RESTful applications in Python with Tornado
-    -   Integrated applications with Salesforce and MongoDB
+    -   Worked on data streaming systems with Elixir and Kafka
+    -   Implemented metrics, alerting, and logging improvements
+    -   Integrated applications with Salesforce
 
 *   **“Sopel”**
 
-    Lead Developer, July 2012 - present
+    Lead Developer, July 2012 - December 2017
 
     -   Headed an open-source software project
     -   Extended, maintained, and distributed a Python application
@@ -45,21 +49,6 @@ Relevant Experience
     -   Learned about a wide variety of open source software in related topics
         including Android, Shibboleth, and wireless security
 
-*   **H.B. Davis Seed Co., Inc.** (Albany, NY)
-
-    Technical Consultant, June - October 2010 - 2012
-
-    Data Entry, June - September 2007 - 2010
-
-    -   Oversaw Enterprise Resource Management (ERP) systems conversion
-        -   Researched and assisted in selection of new ERP system
-        -   Provided one-on-one training to employees
-        -   First point of contact on support issues, liaison between HB Davis
-            and Epicor on advanced issues
-    -   Evaluated and implemented open source alternatives to appropriate
-        software
-    -   Improved and scripted automation of common and time-consuming tasks
-
 
 Education
 ---------
@@ -75,7 +64,7 @@ Skills
 ------
 
 *   Highly proficient in Python and git
-*   Skilled with Java, JavaScript, and shell scripting.
+*   Skilled with Elixir, JavaScript, and shell scripting.
 *   Experience with Postgres and MySQL, as well as Django and SQLAlchemy
 *   Experience with Linux administration including systemd and RPM/yum
 
