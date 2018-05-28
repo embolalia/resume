@@ -19,7 +19,7 @@ Relevant Experience
     -   Implemented metrics, alerting, and logging improvements
     -   Integrated applications with Salesforce
 
-*   **“Sopel”**
+*   **Sopel** _(volunteer)_
 
     Lead Developer, July 2012 - December 2017
 
